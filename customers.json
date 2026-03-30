@@ -1,0 +1,37 @@
+[
+    {
+        "full_name": "Kajan",
+        "email": "kajan@gmail.com",
+        "contact": "0987654321",
+        "username": "kajan01",
+        "password": "kajan01",
+        "id": 1
+    },
+    {
+        "full_name": "Sakithya",
+        "email": "saki@gamil.com",
+        "contact": "0752474120",
+        "address": "Jaffna",
+        "username": "sakithya",
+        "password": "1906",
+        "id": 2
+    },
+    {
+        "full_name": "shana",
+        "email": "shana ",
+        "contact": "0212230054",
+        "address": "jaffna",
+        "username": "Shana",
+        "password": "2004",
+        "id": 3
+    },
+    {
+        "full_name": "Shana",
+        "email": "Shana@gmail.com",
+        "contact": "0776687571",
+        "address": "Colombo",
+        "username": "shana",
+        "password": "2004",
+        "id": 4
+    }
+]

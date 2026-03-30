@@ -1,0 +1,249 @@
+[
+    {
+        "name": "Neckless",
+        "style": "Gold",
+        "rental_price": 4000,
+        "sale_price": 400000,
+        "quantity": 16,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\temple_set.png",
+        "shop_id": 1,
+        "shop_name": "Lalitha jewels",
+        "availability": "Yes",
+        "id": 1
+    },
+    {
+        "name": "Necklesss",
+        "style": "Gold",
+        "rental_price": 5000,
+        "sale_price": 0,
+        "quantity": 18,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\modern_set.png",
+        "shop_id": 1,
+        "shop_name": "Lalitha jewels",
+        "availability": "Yes",
+        "id": 3
+    },
+    {
+        "name": "Ring",
+        "style": "Modern",
+        "rental_price": 400000,
+        "sale_price": 3560000,
+        "quantity": 7,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\temple_set.png",
+        "shop_id": 1,
+        "shop_name": "Lalitha jewels",
+        "availability": "Yes",
+        "id": 4
+    },
+    {
+        "name": "Diamond jumkas",
+        "style": "Temple",
+        "rental_price": 94600,
+        "sale_price": 0,
+        "quantity": 13,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\Diamond jumkas.jpg",
+        "shop_id": 1,
+        "shop_name": "Lalitha jewels",
+        "availability": "Yes",
+        "id": 5
+    },
+    {
+        "name": "Bridal Ruby & Emerald Tear Drop Bangles - South India Jewels",
+        "style": "Gold",
+        "rental_price": 1000,
+        "sale_price": 0,
+        "quantity": 5,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\Bridal Ruby & Emerald Tear Drop Bangles - South India Jewels.jpg",
+        "shop_id": 3,
+        "shop_name": "Bridal Glow",
+        "availability": "Yes",
+        "id": 6
+    },
+    {
+        "name": "Diamonds Earring",
+        "style": "Modern",
+        "rental_price": 2500,
+        "sale_price": 0,
+        "quantity": 3,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\21 Earring.jpg",
+        "shop_id": 3,
+        "shop_name": "Bridal Glow",
+        "availability": "Yes",
+        "id": 7
+    },
+    {
+        "name": "Vintage Zirconia Ring",
+        "style": "Gold",
+        "rental_price": 0,
+        "sale_price": 1500,
+        "quantity": 10,
+        "type": [
+            "Buy"
+        ],
+        "image_url": "assets\\1 Pc S925 Sterling Silver Ring Exquisite Elegant Retro Gold Crown Zirconia Finger Ring Vintage Zirconia Rings Jewelry Gift For Women.jpg",
+        "shop_id": 3,
+        "shop_name": "Bridal Glow",
+        "availability": "Yes",
+        "id": 8
+    },
+    {
+        "name": "Pearl Bracelet",
+        "style": "Temple",
+        "rental_price": 0,
+        "sale_price": 850,
+        "quantity": 15,
+        "type": [
+            "Buy"
+        ],
+        "image_url": "assets\\1 Cristal.jpg",
+        "shop_id": 3,
+        "shop_name": "Bridal Glow",
+        "availability": "Yes",
+        "id": 9
+    },
+    {
+        "name": "Diamond tiaras Royal",
+        "style": "Modern",
+        "rental_price": 2500,
+        "sale_price": 8000,
+        "quantity": 2,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\Diamond tiaras Royal.jpg",
+        "shop_id": 3,
+        "shop_name": "Bridal Glow",
+        "availability": "Yes",
+        "id": 10
+    },
+    {
+        "name": "Kandyan Bridal Jewellery",
+        "style": "Gold",
+        "rental_price": 10000,
+        "sale_price": 0,
+        "quantity": 2,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\\\Kandyan Bridal Jewellery best.jpg",
+        "shop_id": 4,
+        "shop_name": "Bridal Jewelry Dreams",
+        "availability": "Yes",
+        "id": 11
+    },
+    {
+        "name": "Lucie bridal double necklace set golden",
+        "style": "Modern",
+        "rental_price": 4500,
+        "sale_price": 50000,
+        "quantity": 3,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\\\lucie bridal double necklace set golden.jpg",
+        "shop_id": 4,
+        "shop_name": "Bridal Jewelry Dreams",
+        "availability": "Yes",
+        "id": 12
+    },
+    {
+        "name": "veronica crystal and pearl jewelry",
+        "style": "Modern",
+        "rental_price": 10000,
+        "sale_price": 165000,
+        "quantity": 2,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\\\veronica crystal and pearl jewelry.webp",
+        "shop_id": 4,
+        "shop_name": "Bridal Jewelry Dreams",
+        "availability": "Yes",
+        "id": 14
+    },
+    {
+        "name": "Premium finish bridal jewellary",
+        "style": "Temple",
+        "rental_price": 15000,
+        "sale_price": 0,
+        "quantity": 1,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\\\premium finish jewellary.jpg",
+        "shop_id": 4,
+        "shop_name": "Bridal Jewelry Dreams",
+        "availability": "Yes",
+        "id": 15
+    },
+    {
+        "name": " Tamil wedding bridal jewellary",
+        "style": "Temple",
+        "rental_price": 10000,
+        "sale_price": 0,
+        "quantity": 1,
+        "type": [
+            "Rental"
+        ],
+        "image_url": "assets\\\\bridal jewellary.jpg",
+        "shop_id": 4,
+        "shop_name": "Bridal Jewelry Dreams",
+        "availability": "Yes",
+        "id": 16
+    },
+    {
+        "name": "Crystal Water Drop Bridal Jewelry ",
+        "style": "Modern",
+        "rental_price": 14000,
+        "sale_price": 65000,
+        "quantity": 2,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\\\Crystal Water Drop Bridal Jewelry Sets.jpg",
+        "shop_id": 4,
+        "shop_name": "Bridal Jewelry Dreams",
+        "availability": "Yes",
+        "id": 17
+    },
+    {
+        "name": "Diamond bridal jewellery",
+        "style": "Modern",
+        "rental_price": 2500,
+        "sale_price": 20000,
+        "quantity": 2,
+        "type": [
+            "Rental",
+            "Buy"
+        ],
+        "image_url": "assets\\\\diamond bridal jewellery.jpg",
+        "shop_id": 7,
+        "shop_name": "Bridal Gallery",
+        "availability": "Yes",
+        "id": 18
+    }
+]
